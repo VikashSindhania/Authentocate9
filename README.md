@@ -26,3 +26,10 @@ A modern, fully-featured e-commerce application built with React, Redux Toolkit,
 - **API**: FakeStore API
 
 ## Project Structure
+
+
+
+//For Register the account You can use any username and password for an account like this:
+
+username: "john",
+password: "123456"
